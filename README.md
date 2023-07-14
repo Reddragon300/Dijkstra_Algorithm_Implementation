@@ -80,5 +80,5 @@ Shortest Distance: 12
 Shortest Path: [0, 2, 1, 3, 4]
 ```
 
-### For more detailed examples and method descriptions, please refer to the code comments. Also see `Dijkstra_test.py` for test cases.
+### For more detailed examples and method descriptions, please refer to the code comments. Also see `Dijkstra_tests.py` for test cases.
 
